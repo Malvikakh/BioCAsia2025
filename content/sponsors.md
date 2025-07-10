@@ -1,4 +1,4 @@
-+++
+<!-- +++
 title = "Sponsors"
 description = "Sponsors"
 +++
@@ -194,8 +194,7 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 
 ***
 
-## Approximate conference demographics
-
+<!-- ## Approximate conference demographics
 - Bioc2021 was virtual and was attended by 500+ participants from the global Bioconductor bioinformatics community. 
 
 - Academic (50%), corporate (e.g., pharmaceutical; 30%);
